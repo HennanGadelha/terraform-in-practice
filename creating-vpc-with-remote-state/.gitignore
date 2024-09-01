@@ -1,0 +1,8 @@
+# Ignorar a pasta .terraform e todo o seu conteúdo
+.terraform/
+
+# Ignorar o arquivo .terraform.lock.hcl
+.terraform.lock.hcl
+
+# Ignorar o arquivo plan.out
+plan.out
